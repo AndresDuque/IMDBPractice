@@ -1,3 +1,4 @@
- Making a DataBase from IMDB website.
-1.-For consulting about movies of an actor.
-2.- Given two actors, a function returned if they was a costars.
+## Making a database from IMDB.
+You can:
+ - Look for information about a movie or actor. Get all the movies an actor appeared in.
+ - Given two actors, a function returned if they was a costars.
